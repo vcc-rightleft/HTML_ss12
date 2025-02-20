@@ -1,0 +1,19 @@
+.bac{
+    border: 1px solid black;
+    width: 30%;
+    border-radius: 5px;
+    padding: 10px;
+}
+.backgroud{
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.bac:hover{
+    background-color: yellow;
+}
+.tit{
+    text-align: center;
+}
